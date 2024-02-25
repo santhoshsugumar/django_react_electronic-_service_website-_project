@@ -1,0 +1,26 @@
+.home{
+  background: #89e5eb;
+}
+.about{
+  background: #89e5eb;
+}
+.gallery{
+  background: #89e5eb;
+}
+.expert{
+  background: #89e5eb;
+}
+.title{
+  font-size: 3rem;
+}
+.button{
+  padding: 10px 40px;
+  background: rgb(115, 115, 167);
+  transition: all 0.5s;
+}
+.button:hover{
+  background-color: rgb(40, 40, 101);
+  color: white;
+  transform: translate();
+  box-shadow: 0 5px 15px black;
+}
